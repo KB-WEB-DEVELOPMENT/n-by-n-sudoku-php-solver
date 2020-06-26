@@ -4,7 +4,7 @@
 
   Pay special attention to how the given board numbers have to be entered.
 
-  Example :
+  (Example)
   
   For the following  5 by 5 Sudoku puzzle , the grid looks the following : https://i.ibb.co/Wgkk2KC/sudoku.jpg
 
